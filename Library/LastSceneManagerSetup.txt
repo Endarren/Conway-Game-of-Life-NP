@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Examples/Conway/Game of Life.unity
+  isLoaded: 1
+  isActive: 1
